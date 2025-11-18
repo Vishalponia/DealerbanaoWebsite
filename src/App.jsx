@@ -47,7 +47,7 @@ import { Routes, Route } from "react-router-dom";
 
 // Components
 import Navbar from "./components/Navbar";
-import Hero from "./components/hero.jsx";
+import Hero from "./components/Hero.jsx";
 import DealerCards from "./components/DealerCards";
 import Gallery from "./components/Gallery";
 import Footer from "./components/Footer";
